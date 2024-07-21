@@ -1,0 +1,62 @@
+IssueID,IssueKey,User_Story,Comments,ECCOLA_Code1,ECCOLA_Code2,ECCOLA_Code3,ECCOLA_Code
+10001,HealthMonitoringApplication-1,"Continuous Health Data Collection.
+As a software developer, I want to continuously collect health data from users' wearable devices so that we can monitor their health in real-time and provide timely alerts. This will help users stay informed about their health status and take proactive measures to prevent potential health issues.",,#7 Privacy and Data,#8 Data Quality,#12 System Security,
+10002,HealthMonitoringApplication-2,"Predictive Health Analytics
+As a data scientist, I want to analyze collected health data to predict potential health issues so that we can provide users with early warnings and personalized health advice. By leveraging predictive analytics, we can help users maintain better health and reduce the risk of serious health problems.",,#2 Explainability,#7 Privacy and Data,#8 Data Quality,
+10003,HealthMonitoringApplication-3,"Personalized Health Recommendations
+As a health coach, I want to provide personalized health recommendations to users based on their collected data so that they can make informed decisions about their health and lifestyle. By offering tailored advice, we can help users achieve their health goals more effectively.",,#2 Explainability,#7 Privacy and Data,#10 Human Agency,
+10004,HealthMonitoringApplication-4,"Sharing Health Data with Third Parties
+As a product manager, I want to enable users to share their health data with third-party health providers so that they can receive comprehensive health services. By allowing data sharing, users can benefit from a more holistic approach to health management",,#7 Privacy and Data,#9 Access to Data,#19 Ability to Redress,
+10005,HealthMonitoringApplication-5,"Health Data Anonymization
+As a security engineer, I want to anonymize users' health data before storing it so that their privacy is protected while allowing us to perform analytics. Anonymization will help prevent the identification of individual users from the data, ensuring their personal information remains confidential.",,#7 Privacy and Data,#8 Data Quality,#18 Auditability,
+10006,SmartHomeAutomation-1,"Voice-Activated Controls
+As a software developer, I want to implement voice-activated controls for smart home devices so that users can conveniently manage their home environment using voice commands. This feature will enhance user experience by providing a hands-free way to control various devices.",,#7 Privacy and Data,#12 System Security,#14 Accessibility,
+10007,SmartHomeAutomation-2,"Automated Energy Management
+As an energy manager, I want to develop an automated energy management system for smart homes so that users can optimize their energy consumption and reduce utility costs. The system will monitor energy usage and make adjustments to improve efficiency.",,#7 Privacy and Data,#12 System Security,#16 Environmental Impact,
+10008,SmartHomeAutomation-3,"Smart Security Surveillance
+As a security engineer, I want to implement a smart surveillance system for home security so that users can monitor their property in real-time and receive alerts about suspicious activities. The system will use AI to analyze video feeds and detect potential threats.",,#2 Explainability,#7 Privacy and Data,#12 System Security,
+10009,SmartHomeAutomation-4,"Personalized Home Automation
+As a smart home developer, I want to create personalized automation routines based on user behavior so that the smart home system can adapt to their preferences and habits. This will provide a more customized and convenient living experience.",,#2 Explainability,#7 Privacy and Data,#10 Human Agency,
+10010,SmartHomeAutomation-5,"Data Sharing with Smart Grid
+As a smart home product manager, I want to enable data sharing with the local smart grid so that users can participate in demand response programs and benefit from optimized energy distribution. This will help balance energy supply and demand.",,#7 Privacy and Data,#9 Access to Data,#16 Environmental Impact,
+10011,OnlineLearningPlatform-1,"Personalized Learning Paths
+As an educational software developer, I want to implement personalized learning paths for students so that they can receive tailored content and assessments based on their individual needs and progress. This will help improve learning outcomes by addressing each student's unique strengths and weaknesses.",,#2 Explainability,#7 Privacy and Data,#10 Human Agency,
+10012,OnlineLearningPlatform-2,"Student Performance Analytics
+As a data scientist, I want to analyze student performance data to identify trends and areas for improvement so that educators can make data-driven decisions to enhance the learning experience. By understanding student performance, we can provide targeted support and resources.",,#2 Explainability,#7 Privacy and Data,#8 Data Quality,
+10013,OnlineLearningPlatform-3,"Automated Grading System
+As an instructor, I want to implement an automated grading system to evaluate student assignments so that grading can be done more efficiently and consistently. This will save time and provide quicker feedback to students.",,#2 Explainability,#10 Human Agency,#18 Auditability,
+10014,OnlineLearningPlatform-4,"Virtual Classrooms with AI Moderation
+As a platform administrator, I want to implement AI moderation in virtual classrooms to monitor and manage student interactions so that the learning environment remains safe and conducive to learning. The AI will detect and address inappropriate behavior in real-time.",,#2 Explainability,#7 Privacy and Data,#10 Human Agency,
+10015,OnlineLearningPlatform-5,"Learning Analytics Dashboard for Educators
+As an educational researcher, I want to develop a learning analytics dashboard for educators so that they can visualize and analyze student performance data to improve teaching strategies. The dashboard will provide insights into student engagement, progress, and areas for improvement.",,#2 Explainability,#7 Privacy and Data,#8 Data Quality,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

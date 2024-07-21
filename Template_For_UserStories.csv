@@ -1,0 +1,3 @@
+IssueID,IssueKey,User_Story,Comments,ECCOLA_Code
+10001,HealthMonitoringApplication-1,"Continuous Health Data Collection.
+As a software developer, I want to continuously collect health data from users' wearable devices so that we can monitor their health in real-time and provide timely alerts. This will help users stay informed about their health status and take proactive measures to prevent potential health issues.",,#7 Privacy and Data,#8 Data Quality,#12 System Security,
