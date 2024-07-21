@@ -115,5 +115,7 @@
 Open-source according to GitHub.
 
 3. Data
-Data is run locally on the client machine and is owned privately by the users.
+- User Stories : Data is run locally on the client machine and is owned privately by the users.
+- Sample Data : The data included in this repository is not covered by this license. The data belongs to third parties and is used here solely for demonstration purposes. Users of this repository are not permitted to use, copy, modify, or distribute the data without proper authorization from the respective data owners.
+- ECCOLA Questions : The questions included in this story is owned by Vakkuri, Ville, et al. | ECCOLA—A method for implementing ethically aligned AI systems | Journal of Systems and Software 182:111067 | 2021
 
