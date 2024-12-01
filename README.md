@@ -3,6 +3,9 @@
 ## Project Overview
 **Automating Suggestion of Ethical Implementation Method on Agile Software Project Management** is a tool designed to facilitate the integration of ethical practices in agile software project management. The tool provides automated ethical suggestions based on the methodology outlined in the paper "ECCOLA—A Method for Implementing Ethically Aligned AI Systems" by Vakkuri, Ville, et al., published in the Journal of Systems and Software.
 
+## Documentation
+This repo is the code for thesis : https://lutpub.lut.fi/handle/10024/168082
+
 ## Key Features
 - Automated ethical suggestions tailored for agile software project management.
 - Integration with ECCOLA methodology for ethical AI systems.
